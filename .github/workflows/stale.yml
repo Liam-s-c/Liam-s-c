@@ -1,0 +1,9 @@
+name: Did Files Change
+  # You may pin to the exact commit or the version.
+  # uses: rdietrick/did-files-change@5f1334891480161f1790a989f07e71a51e2d1ca8
+  uses: rdietrick/did-files-change@v1.2
+  with:
+    # Pattern used to limit paths in the `git diff-tree` command.
+    pathspec: # optional, default is 
+    # The SHA of the commit to compare.  Defaults to current commit SHA.
+    sha: # optional, default is ${{ github.sha }}
