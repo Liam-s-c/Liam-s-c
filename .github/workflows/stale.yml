@@ -1,9 +1,11 @@
-name: Did Files Change
-  # You may pin to the exact commit or the version.
-  # uses: rdietrick/did-files-change@5f1334891480161f1790a989f07e71a51e2d1ca8
-  uses: rdietrick/did-files-change@v1.2
+name: Check for Changed Files
+uses: https://github.com/Liam-s-c/Liam-s-c/blob/main/Current%20project.md
   with:
-    # Pattern used to limit paths in the `git diff-tree` command.
-    pathspec: # optional, default is 
-    # The SHA of the commit to compare.  Defaults to current commit SHA.
-    sha: # optional, default is ${{ github.sha }}
+    # Glob pattern for changed file to check for
+    file-pattern: 
+    # Glob pattern that guards whether the action will run
+    prereq-pattern: # optional
+    # Label to trigger skipping the check
+    skip-label: # optional
+    # String template used when the check fails
+    failure-message: # optional, default is the prerequisite file pattern ${prereq-pattern} matched changed files in the pull request, but the ${file-pattern} pattern did NOT and the ${skip-label} label is not set
