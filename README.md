@@ -7,5 +7,5 @@
  - I might make a Discord server later on though??
 
 
-# [FAQ](
-#### Current Project: 
+# [FAQ](https://github.com/Liam-s-c/Liam-s-c/blob/main/Faq.md)
+#### [Website](https://liamsc.net/)
