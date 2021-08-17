@@ -7,5 +7,5 @@
  - Click: [Here](mailto:contact@liamsc.net) to email me
 
 
-# [FAQ](https://github.com/Liam-s-c/Liam-s-c/blob/main/Faq.md)
+# [FAQ](https://liamsc.net/faq)
 # [Website](https://liamsc.net/)
