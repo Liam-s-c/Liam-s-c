@@ -8,4 +8,4 @@
 
 
 # [FAQ](https://liamsc.net/faq)
-# [Website](https://liamsc.net/)
+# [liamsc.net](https://liamsc.net/)
