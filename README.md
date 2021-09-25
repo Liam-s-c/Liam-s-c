@@ -1,10 +1,19 @@
-# Hello, I am **Liam S.**
-## Here are some things you should know about me:
- - I have been programming for just over **6 years**
-### How to reach me if you want to work on a project with me or if you just want to talk:
- - Discord is the fastest way to reach me: _**Liam S#0001**_
- - Click: [Here](mailto:contact@liamsc.net) to email me
+# **Liam-s-c** | [*About Me*](http://liamsc.net/about-me)
+#### Some things you should about me:
+- I have been programming for just over 7 years
+
+------------
+
+#### If you want to contact me about a project or just want to be friends:
+1. Discord:  _**Liam S#0001**_
+2.  Email:   _**contact@liamsc.net**_
 
 
-# [More About Me](https://liamsc.net/about-me)
-# [liamsc.net](https://liamsc.net/)
+------------
+
+
+
+
+
+
+
