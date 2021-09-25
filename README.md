@@ -1,4 +1,5 @@
 # **Liam-s-c** | [*About Me*](http://liamsc.net/about-me)
+## [*liamsc.net*](http://liamsc.net/) and [*url shortener*](http://liamsc.net/shorten)
 #### Some things you should know about me:
 - I have been programming for just over 7 years
 
@@ -10,7 +11,6 @@
 
 
 ------------
-
 
 
 
