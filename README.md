@@ -1,5 +1,5 @@
 # **Liam-s-c** | [*About Me*](http://liamsc.net/about-me)
-#### Some things you should about me:
+#### Some things you should know about me:
 - I have been programming for just over 7 years
 
 ------------
