@@ -14,7 +14,7 @@
 
 <h4 align="center" style="margin-top:0px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-s-c&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs&hide_border=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-s-c&count_private=true&show_icons=true&theme=gruvbox_light&hide=stars,prs&hide_border=true&border_radius=16px">
 
 </h4>
 
