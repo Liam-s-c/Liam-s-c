@@ -1,16 +1,16 @@
-# **Liam-s-c** | [*About Me*](http://liamsc.net/about-me)
-## [*liamsc.net*](http://liamsc.net/) and [*url shortener*](http://liamsc.net/shorten)
-#### Some things you should know about me:
-- I have been programming for just over 7 years
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="100" src="http://liamsc.net/img/icon-128.png" alt="Petrov Pack Logo" align="center">
+</p>
 
-------------
+<h1 align="center" style="margin-top: 0px;"><a href="https://liamsc.net/">Liamsc</a> | <a href="https://liamsc.net/about-me/">About Me</a></h1>
 
-#### If you want to contact me about a project or just want to be friends:
-1. Discord:  _**Liam S#0001**_
-2.  Email:   _**contact@liamsc.net**_
+<h5 align="center" style="margin-top:0px;"> If you want to contact me about a project or just be friends:
+<br>
+  1. <b>Discord</b>: Liam s#0001 
+  <br>
+  2. <b>Email</b>: contact@liamsc.net
 
-
-------------
+</h5>
 
 
 
