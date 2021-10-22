@@ -13,7 +13,7 @@
 </h3>
 
 <h2 align="center" style="margin-top:0px;">
-  <a href=" ">
+  <a href="https://liamsc.net/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-s-c&count_private=true&show_icons=truet&hide=stars,prs&hide_border=true&border_radius=16px&card_width=256px&custom_title=Liamsc's GitHub Stats&">
 
 </h2>
