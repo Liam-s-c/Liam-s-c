@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="100" src="http://liamsc.net/img/icon-128.png" alt="Petrov Pack Logo" align="center">
+  <a href="https://liamsc.net/img/icond-128.png"><img width="100" src="http://liamsc.net/img/icon-128.png" alt="Petrov Pack Logo" align="center"></a>
 </p>
 
 <h1 align="center" style="margin-top: 0px;"><a href="https://liamsc.net/">Liamsc</a> | <a href="https://liamsc.net/about-me">About Me</a></h1>
