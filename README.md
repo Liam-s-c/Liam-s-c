@@ -12,11 +12,14 @@
 
 </h3>
 
-<h2 align="center" style="margin-top:0px;">
-  <a href="https://liamsc.net/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-s-c&count_private=true&show_icons=truet&hide=stars,prs&hide_border=true&border_radius=16px&card_width=256px&custom_title=Liamsc's GitHub Stats&"></a>
+----
+----
 
-</h2>
+<h4 align="left" style="margin-top:0px;">
+  <a href="https://liamsc.net/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-s-c&count_private=true&show_icons=truet&hide=stars,prs&hide_border=true&border_radius=12px&card_width=128px&custom_title=Liamsc's GitHub Stats&hide_rank=true""></a>
+
+</h4>
 
 ### Current projects:
 - Minecraft Modpack
