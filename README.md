@@ -14,6 +14,15 @@
 
 <h2 align="center" style="margin-top:0px;">
   <a href="https://liamsc.net/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-s-c&count_private=true&show_icons=truet&hide=stars,prs&hide_border=true&border_radius=16px&card_width=256px&custom_title=Liamsc's GitHub Stats&">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-s-c&count_private=true&show_icons=truet&hide=stars,prs&hide_border=true&border_radius=16px&card_width=256px&custom_title=Liamsc's GitHub Stats&"></a>
 
 </h2>
+
+### Current projects:
+- Minecraft Modpack
+- Minecraft mods
+- 1.0.0 of my VSCode theme
+- Planning projects
+
+Learn more about my current projects [here](https://liamsc.net/current-project)
+
