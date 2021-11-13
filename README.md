@@ -28,3 +28,5 @@
 
 Learn more about my current projects [here](https://liamsc.net/current-project)
 
+Check out their progress [here](https://liamsc.net/current-progress)
+
