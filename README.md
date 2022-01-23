@@ -8,7 +8,7 @@
 <br>
   1. <b>Discord</b>: Liam s#0001 
   <br>
-  2. <b>Email</b>: contact@liamsc.net
+  2. <b>Email</b>: hey@liamsc.net
 
 </h4>
 
