@@ -22,5 +22,7 @@
 
 Past projects: 
 https://areyouverifiedintheeyeofthelord.com/
+https://link.liamsc.net
+https://liamsc.net/shorten
 
 
