@@ -20,13 +20,7 @@
 
 </h4>
 
-### Current projects:
-- Minecraft Modpack
-- Minecraft mods
-- 1.0.0 of my VSCode theme
-- Planning projects
+Past projects: 
+https://areyouverifiedintheeyeofthelord.com/
 
-Learn more about my current projects [here](https://liamsc.net/current-project)
-
-Check out their progress [here](https://liamsc.net/current-progress)
 
